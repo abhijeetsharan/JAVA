@@ -13,7 +13,7 @@ public class jaggedarray {
         }
 
         for(int i = 0; i<jaggedArr.length; i++){
-            for(int j = 0; j< jaggedArr[i].length; j++){
+            for(int j = 0; j < jaggedArr[i].length; j++){
                 System.out.print(jaggedArr[i][j] + " ");
             }
             System.out.println();
