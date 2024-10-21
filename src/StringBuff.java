@@ -1,4 +1,4 @@
-public class StiringBuff {
+public class StringBuff {
     public static void main(String[] args) {
         StringBuffer name = new StringBuffer("Abhijeet");
         name.append(" Sharan");
